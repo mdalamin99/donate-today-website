@@ -17,7 +17,9 @@ h5{font-size: 15px;}
 }
 .top-banner{font-size: 2rem;
       color: rgb(27, 26, 26);
-           text-align: center;}
+           text-align: center;
+      margin-bottom: 10px;}
+
 #h1-fonts{font-size: 4.5rem;}
 .link-button{
       text-decoration: none;
@@ -127,4 +129,30 @@ h5{font-size: 15px;}
       margin-left:12px;
       text-decoration: none;
       margin-right: 4px;
+}
+
+.update-section{
+      text-align: center;
+      margin-bottom: 100px;
+}
+.email{
+      background-color: #FFF4D6;
+      width: 60%;
+      margin-left: 19%;
+      margin-right: 20%;
+      padding: 70px;
+      text-transform: capitalize;
+}
+#email{
+      width: 250px;
+      height: 40px;
+      background-color:aliceblue;
+      border: 0px solid gray;
+}
+.subscribe{
+      width: 100px;
+      height: 40px;
+      background-color:#FF5959ed;
+      border: 0px solid gray;
+      border-radius: 0px 6px 6px 0px;
 }
