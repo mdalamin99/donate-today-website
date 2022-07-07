@@ -37,7 +37,7 @@ h5{font-size: 15px;}
 }
 .money-part{
       display: flex;
-      text-align: center;
+      text-align: justify;
       text-transform: uppercase;
       width: 60%;
       margin-left: 20%;
@@ -62,7 +62,43 @@ h5{font-size: 15px;}
       font-size: 1.5rem;
       margin-top: 2px;
 }
-
 .link-button-2{
       margin-top: 30px;
+}
+
+.donate-plan{
+      text-align:center;
+      width: 100%;
+      margin-bottom: 100px;
+}
+.plan-for-donate{
+      display: flex;
+      width: 80%;
+      margin-left: 10%;
+}
+.plan-box{
+      display:flex;
+      margin-left: 15px;
+      margin-right: 2px;
+      width: 100%;
+}
+.plan-1{
+      text-align: justify;
+      width: 100%;
+      text-transform: capitalize;
+      padding: 30px;
+      margin-top: 5px;
+}
+.plan-box img{
+      width: 80px;
+      margin: 0;
+}
+#color-change-1{
+      background-color: #EDF5F6;
+}
+#color-change-2{
+      background-color: #FFEEEE;
+}
+#color-change-3{
+      background-color: #FFF4D6;
 }
