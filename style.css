@@ -102,3 +102,29 @@ h5{font-size: 15px;}
 #color-change-3{
       background-color: #FFF4D6;
 }
+
+.differnt{text-align: center;}
+.difference-today{
+      display: flex;
+      margin-left: 4%;
+      margin-right:3.5%;
+      width: 90%;
+}
+.part{
+      text-align: justify;
+      margin-bottom: 100px;
+      border: 1px solid rgb(212, 203, 203);
+      margin-left: 10px;
+      margin-right: 10px;
+      width: 100%;
+}
+.part img{
+      width: 100%;
+      padding: 0;
+      height: 250px;
+}
+.part,h4,p,a{
+      margin-left:12px;
+      text-decoration: none;
+      margin-right: 4px;
+}
