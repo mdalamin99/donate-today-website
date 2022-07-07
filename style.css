@@ -156,3 +156,11 @@ h5{font-size: 15px;}
       border: 0px solid gray;
       border-radius: 0px 6px 6px 0px;
 }
+footer{
+      text-align: center;
+      background-color: #0B0D17;
+      padding: 20px;
+      height: 150px;
+}
+footer h3{color: #FF6462;}
+footer span{ color: #FFEEEE;}
